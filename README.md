@@ -19,7 +19,7 @@
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abhilash.jash.7)
 
-[![Jovian-Shield-180-49.png](https://i.postimg.cc/tgKvKCvT/Jovian-Shield-180-49.png)](https://postimg.cc/06CCmxsR)](https://jovian.com/abhilashjash1995)
+[![Jovian-Shield-180-49.png](https://i.postimg.cc/tgKvKCvT/Jovian-Shield-180-49.png)](https://jovian.com/abhilashjash1995)
 
 
 <!---
