@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Coding, Maths, Physics and Data Science
 
-- 🌱 I’m currently learning Math, Python, MATLAB, Data Science
+- 🌱 I’m currently learning and practicing - Math, Python, Pyspark, Javascript, MATLAB, Data Science/Engineering.
 
 - 💼 I'm am currently employed with Airbus as an Associate Engineer - Simulation & Physical Systems - Health Engineering (Propulsion Systems) Department
 
