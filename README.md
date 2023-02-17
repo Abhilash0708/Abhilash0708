@@ -11,7 +11,15 @@
 
 - 💞️ I’m looking to collaborate on Data Science and Data Engineering Projects
 
-- 📫 How to reach me : [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-jash-08a275ba/)
+- 📫 How to reach me : 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-jash-08a275ba/)
+
+[![twitter](https://twitter.com/ABHILASH_JASH)
+
+[![facebook](https://www.facebook.com/abhilash.jash.7)
+
+[![jovian](https://jovian.com/abhilashjash1995)
 
 
 <!---
