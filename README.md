@@ -15,11 +15,11 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-jash-08a275ba/)
 
-[![twitter](https://twitter.com/ABHILASH_JASH)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ABHILASH_JASH)
 
-[![facebook](https://www.facebook.com/abhilash.jash.7)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abhilash.jash.7)
 
-[![jovian](https://jovian.com/abhilashjash1995)
+[![jovian](https://jovian.com/jovian_logo.svg)](https://jovian.com/abhilashjash1995)
 
 
 <!---
