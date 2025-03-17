@@ -2,17 +2,19 @@
 
 <h1 align="center">Hey 👋, I'm Abhilash, nice to meet you :grimacing: </h1>
 
-<h3 align="center">I'm a passionate engineer and data science professional from India</h3>
+<h3 align="center">I'm a passionate Engineer and Data Science Professional from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash0708&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash0708" /> </p>
 
 - 👀 I’m interested in Coding, Maths, Physics and Data Science
 
-- 🌱 I’m currently learning and practicing - Math, Python, Pyspark, Javascript, MATLAB, Data Science/Engineering.
+- 🌱 I’m currently practicing as well as learning - Math, Python, Pyspark, Javascript, MATLAB, Data Science/Engineering.
 
-- 💼 I'm am currently employed with Airbus as an Associate Engineer - Simulation & Physical Systems - Health Engineering (Propulsion Systems) Department
+- 💼 I'm am currently employed with Airbus as an Engineer E2 - Advanced Engineering and System Studies - Health Engineering (Propulsion Systems) Department.
 
-- 💞️ I’m looking to collaborate on Mechanical Engineering, Data Science and Data Engineering Projects
+- 📖 I have a B.Tech in Mechanical Engineering from Jadavpur University and PGP in Data Science from Praxis Business School. I am doing my M.Tech from IIT Madras in Aerospace Engineering alongside work.
+
+- 💞️ I’m looking to collaborate on Mechanical Engineering, Data Science, Aerospace Engineering and Data Engineering Projects. I am passinate about Generative AI, Artificial Intelligence, Control Systems and Machine Learning.
 
 - 🔭 I love to look up above in the **Sky**
 
